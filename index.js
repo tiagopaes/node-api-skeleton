@@ -2,7 +2,7 @@ const express = require('express');
 const requireDir = require('require-dir');
 const cors = require('cors');
 require('dotenv/config');
-require('./src/config');
+require('./config');
 requireDir('./src/models');
 
 const app = express();
