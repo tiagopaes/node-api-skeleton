@@ -36,11 +36,11 @@ POST /register
 }
 ```
 
-Property | Description | Type
+Property | Description | Rules
 ---|---|---
-`name` | (required) The user name | string
-`email` | (required) The user email | string
-`password` | (required) The user password | string
+`name` | The user name | required, string
+`email` | The user email | required, string
+`password` | The user password | required, string
 
 #### Example response
 
@@ -71,10 +71,10 @@ POST /authenticate
 }
 ```
 
-Property | Description | Type
+Property | Description | Rules
 ---|---|---
-`email` | (required) The user email | string
-`password` | (required) The user password | string
+`email` | The user email | required, string
+`password` | The user password | required, string
 
 #### Example response
 
