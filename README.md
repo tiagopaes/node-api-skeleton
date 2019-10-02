@@ -130,3 +130,9 @@ This route requires an authorization header
 }
 ```
 
+## Tests
+Coming soon
+
+## License
+
+[LICENSE](https://github.com/tiagopaes/node-auth-api/blob/master/LICENSE)
