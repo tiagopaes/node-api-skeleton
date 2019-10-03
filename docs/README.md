@@ -1,23 +1,9 @@
 # API Documentation
 
 ## Endpoints
-- [Welcome](#Welcome)
 - [Register](#Register)
 - [Authenticate](#Authenticate)
 - [Get user](#Get-user)
-
-### Welcome
-
-Returns a string just to make sure the application is working.
-
-```endpoint
-GET /
-```
-#### Example response
-
-```json
-API is working!
-```
 
 ### Register
 
