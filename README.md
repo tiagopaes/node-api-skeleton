@@ -1,4 +1,4 @@
-# node-auth-api
+# node-api-skeleton
 A REST API skeleton made with node js that provides user authentication methods.
 
 ## Project setup
@@ -7,7 +7,7 @@ A REST API skeleton made with node js that provides user authentication methods.
 `git clone `
 
 ### Install the dependencies
-`cd node-auth-api && npm install`
+`cd node-api-skeleton && npm install`
 
 ### Create the `.env` file and edit it with your environment variables
 `cp .env.example .env`
@@ -16,7 +16,7 @@ A REST API skeleton made with node js that provides user authentication methods.
 `npm run dev`
 
 ## API Documentation
-[API Documentation](https://tiagopaes.github.io/node-auth-api/)
+[API Documentation](https://tiagopaes.github.io/node-api-skeleton/)
 
 ## Tests
 Coming soon
